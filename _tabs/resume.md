@@ -143,4 +143,7 @@ order: 4
 ---
 _Shall be provided upon request_
 
+> The resume as a PDF file is available for [here](https://drive.google.com/file/d/10kYDObMz4pMAztYKMI2n6YkCedCz_YAx/view?usp=sharing)
+{: .prompt-tip }
+
 

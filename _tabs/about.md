@@ -4,7 +4,6 @@ icon: fas fa-info-circle
 order: 5
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+Personal website of [Dinesh Naidu](https://www.linkedin.com/in/dineshnaidu1014/) built using [Jekyll](https://chirpy.cotes.page/) and rendered through [Github Pages](https://pages.github.com/)
 
 
